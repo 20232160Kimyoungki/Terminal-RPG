@@ -5,7 +5,7 @@
 
 typedef struct
 {
-	char type;
+	char type; //Wizard, Warrior,  Rogue
 	int hp;
 	int max;
 	int dmg;
